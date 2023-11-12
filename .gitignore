@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# All Course Sourcecode Files
+coursecode
+coursecode/*
